@@ -1,0 +1,14 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:android_custom="http://schemas.android.com/apk/res/com.chenyzh.myview"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+<com.chenyzh.myview.view.RoundView
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android_custom:roundWidth="8px"
+    android_custom:process="180"
+    />
+    </LinearLayout>
